@@ -1,5 +1,8 @@
 WillExecution Protocol
+
 Project Description
+
+
 The WillExecution Protocol is a revolutionary blockchain-based digital will management system built on the Stacks blockchain using Clarity smart contracts. This protocol enables users to create legally-binding digital wills that automatically distribute assets to designated beneficiaries upon meeting predetermined execution conditions.
 
 The system provides a secure, transparent, and automated solution for estate planning, eliminating the need for traditional intermediaries while ensuring beneficiaries are properly notified and can claim their inheritance when conditions are met. By leveraging blockchain technology, the protocol guarantees immutability, transparency, and automated execution of will instructions.
