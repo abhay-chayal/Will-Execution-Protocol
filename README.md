@@ -60,26 +60,13 @@ The WillExecution Protocol has extensive potential for expansion and enhancement
 
 ## Contract Address Details
 
-*Contract deployment details will be added here upon mainnet deployment*
+<img width="1919" height="595" alt="image" src="https://github.com/user-attachments/assets/7b7fa221-6c4d-4128-8309-1004fd338a4c" />
 
 **Testnet Information:**
 - Network: Stacks Testnet
-- Contract Address: [To be updated]
-- Deployment Transaction: [To be updated]
-- Deployment Block: [To be updated]
+- Contract Address: ST2BZAZTQ7QBSX36M13Z96HG8CCM2HZP7KZCW6534.WillExecutionProtocol
+- Deployment Transaction: 0x4901201c0864ec98cf48b13950a7fc5f17e51aa6480f245b5af3f9a96f08aa22
 
-**Mainnet Information:**
-- Network: Stacks Mainnet  
-- Contract Address: [To be updated]
-- Deployment Transaction: [To be updated]
-- Deployment Block: [To be updated]
-
-### Verification
-- Contract Source Code: Available in this repository
-- Deployment Verification: [Link to be added]
-- Audit Reports: [To be updated when available]
-
----
 
 ## Getting Started
 
