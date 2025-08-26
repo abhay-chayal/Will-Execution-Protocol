@@ -1,4 +1,4 @@
-# WillExecution Protocol
+# Will Execution Protocol
 
 ## Project Description
 
