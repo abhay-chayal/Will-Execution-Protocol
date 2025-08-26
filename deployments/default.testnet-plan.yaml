@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: WillExecutionProtocol
+            expected-sender: ST2BZAZTQ7QBSX36M13Z96HG8CCM2HZP7KZCW6534
+            cost: 44400
+            path: "contracts\\WillExecutionProtocol.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
